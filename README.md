@@ -2,7 +2,6 @@
 
 ├── finance/ # Dados relacionados a finanças, crédito, fraude etc.
 ├── retail/ # Dados de vendas, e-commerce e comportamento do consumidor
-├── healthcare/ # Dados de saúde e epidemiologia
 ├── README.md # Documentação do repositório
 
 ## Cada subpasta pode conter:  
