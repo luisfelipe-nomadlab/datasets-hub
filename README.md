@@ -1,8 +1,10 @@
 ##  Estrutura do Repositório  
 
+```bash
 ├── finance/ # Dados relacionados a finanças, crédito, fraude etc.
 ├── retail/ # Dados de vendas, e-commerce e comportamento do consumidor
 ├── README.md # Documentação do repositório
+```
 
 ## Cada subpasta pode conter:  
 - **data/** → dataset em si (quando público ou sintético).  
