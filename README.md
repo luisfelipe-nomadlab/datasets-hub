@@ -3,6 +3,7 @@
 ```bash
 ├── finance/ # Dados relacionados a finanças, crédito, fraude etc.
 ├── retail/ # Dados de vendas, e-commerce e comportamento do consumidor
+├── social-media/ # Dados sobre desempenho de mídias na plataforma
 ├── README.md # Documentação do repositório
 ```
 
