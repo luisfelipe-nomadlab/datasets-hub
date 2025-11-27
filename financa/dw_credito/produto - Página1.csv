@@ -1,0 +1,9 @@
+ID_PRODUTO,NOME_PRODUTO,TAXA
+PRC001,Cartão de Crédito Rotativo,0.85
+PRC002,Cheque Especial,0.65
+PRC003,Empréstimo Consignado,0.12
+PRC004,Antecipação 13º/IR,0.18
+PRC005,Crédito Pessoal Não Consignado,0.35
+PRC006,Financiamento Estudantil,0.15
+PRC007,Financiamento de Veículos,0.20
+PRC008,Capital de Giro,0.25
